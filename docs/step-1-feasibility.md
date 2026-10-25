@@ -2,6 +2,8 @@
 
 Assessed on 2026-10-25. This is a planning study, not a selected bill of materials or a purchase. All physical milestones remain pending.
 
+**Price verification update:** the [direct product check](product-price-check.md) now lists actual products, quantities and observed prices. Four starter bench items total EUR 74.18 before shipping, so the earlier EUR 150 to 350 tool allowance is not a minimum. The complete component built station and first receive milestone ranges below remain unverified estimates, not totals supported by a selected bill of materials.
+
 Here, **step 1 means the first homemade station phase**: antenna, receiver, transmitter and controls. Its first smaller milestone is antenna plus receiver, corresponding to stage 1 in the [detailed roadmap](roadmap.md). Intercontinental contacts and the later autonomous emergency stations remain subsequent goals.
 
 ## Recommended scope
@@ -49,7 +51,7 @@ Listed prices were checked on 2026-10-25. They are examples, not a compatible ba
 | [PINE64 EU soldering equipment](https://pine64eu.com/product-category/devices/solderingirons/) | EUR 67.50 including VAT for the PINECIL V2 listing | Iron price only; check suitable power, stand and availability before ordering |
 | [TME UNI-T UT33D+](https://www.tme.eu/it/details/ut33d%2B/multimetri-digitali-portatili/uni-t/) | EUR 13.06 gross for one on the directly opened listing | Basic multimeter price anchor; delivery additional |
 
-The [receiver documentation](https://www.qrp-labs.com/receiver.html) specifies a local oscillator at four times the receive frequency and an I/Q output requiring a suitable stereo audio input. The polyphase option provides mono SSB audio. A laptop microphone socket is not automatically a suitable I/Q interface.
+The [receiver documentation](https://www.qrp-labs.com/receiver.html) specifies a local oscillator at four times the receive frequency and an I/Q output requiring a suitable stereo audio input. The polyphase option provides mono audio, but its limited response and CW/WSPR design focus require qualification for speech. It is not a validated voice receiver configuration here. A laptop microphone socket is not automatically a suitable I/Q interface. See the [product check](product-price-check.md) for power and audio dependencies.
 
 The QMX uses product specific encrypted firmware. It is a useful kit comparison, but does not offer unrestricted modification of every firmware block. Neither it nor the separate receiver module has been selected. Do not silently replace the owner's component construction objective with a preassembled transceiver.
 

@@ -50,6 +50,14 @@ The next entries follow two separately tracked projects: the homemade HF station
 
 **Evidence limits:** no circuit or band selected, no purchases, no assembly or measurements. Antenna space, existing equipment and experience remain unknown. The later intercontinental and autonomous station milestones are unchanged. See [step 1 feasibility](step-1-feasibility.md).
 
+## 2026-10-25: verify direct product prices
+
+**Owner request:** provide direct product links rather than relying on broad budget calculations.
+
+**Completed:** recorded product links, quantities, displayed prices, tax and shipping limitations. Four starter bench items total EUR 74.18 before shipping. This corrects any implication that the earlier EUR 150 to 350 allowance was a necessary minimum. Radio kits are priced as optional alternatives, with missing power, audio and antenna dependencies identified.
+
+**Evidence limits:** the full component built radio still has no selected and priced bill of materials. The original whole station and first receiver allowances are unverified estimates. No order, assembly or hardware test was made. See [direct product evidence](product-price-check.md).
+
 ## Entry template
 
 Copy this template for each experiment. Retain failed experiments when they explain the next decision.

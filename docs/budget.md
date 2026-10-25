@@ -1,5 +1,7 @@
 # Planning costs
 
+**Product evidence:** see the [direct product links and price check](product-price-check.md). Four starter bench items total EUR 74.18 before shipping. The previous EUR 150 to 350 workbench allowance is not a minimum, and the full component built station budget is not yet supported by a selected, priced bill of materials.
+
 **Latest initial build estimate:** see [step 1 costs and feasibility](step-1-feasibility.md). The component construction allowance is EUR 300 to 550 for the first HF station, plus EUR 150 to 350 for basic tools if needed. A smaller antenna and receiver milestone targets EUR 120 to 200 in parts. These allowances assume borrowed RF measurement equipment and are not checkout quotations.
 
 **Current scope:** one progressive DIY project, from homemade HF construction through intercontinental contacts to autonomous emergency stations. The figures below mainly describe complete new commercial equipment configurations, not minimum entry costs. See the [project path](workstreams.md), including a provisional EUR 300 to 500 starting allowance for a low power kit based HF station if that option is selected. The commercial network budget is not a validated DIY minimum. EME is parked. Cost the next construction milestone before selecting purchases for later phases.

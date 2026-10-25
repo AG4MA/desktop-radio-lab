@@ -59,7 +59,9 @@ Store schematics, firmware and measurements when they exist. Clearly label simul
 
 ## First practical step
 
-See the [step 1 cost and feasibility study](docs/step-1-feasibility.md): a provisional EUR 300 to 550 for the component built HF station, plus EUR 150 to 350 for basic tools if needed. The smaller antenna and receiver milestone targets EUR 120 to 200 in parts. RF measurement equipment is assumed borrowed; access is not yet confirmed.
+The [direct product links and price check](docs/product-price-check.md) provide verifiable listings. Four starter bench items total EUR 74.18 before shipping. A complete component built radio bill of materials is still unselected and unquoted; the following figures are planning allowances, not verified shopping totals.
+
+The [step 1 cost and feasibility study](docs/step-1-feasibility.md) retains the initial planning allowances with their qualifications. RF measurement equipment is assumed borrowed; access is not yet confirmed.
 
 Record the initial budget, antenna space, equipment already available, soldering and electronics experience, and licensing status. Then select one band, one documented receiver design and one feasible antenna build. The first physical milestone is repeatable reception through the station's own antenna. Document each subsystem before adding the next.
 
