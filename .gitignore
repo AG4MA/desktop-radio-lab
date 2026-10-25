@@ -1,0 +1,14 @@
+# Local state, private records and credentials
+.local/
+.env
+.env.*
+!.env.example
+
+# Raw capture storage; publish selected evidence intentionally
+captures/
+
+# Development environments and operating system files
+.venv/
+__pycache__/
+.DS_Store
+Thumbs.db
