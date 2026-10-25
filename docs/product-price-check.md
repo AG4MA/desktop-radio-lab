@@ -45,6 +45,24 @@ The optional [polyphase module](https://shop.qrp-labs.com/polyphase) is USD 11.0
 
 An antenna still needs its selected feed arrangement, supports, strain relief and any required choke. These are not a complete antenna kit. Radio power protection, microphone or computer audio, enclosure details and transmitter test access are not all priced. A complete station total cannot yet be derived from these partial lists.
 
+## What the priced alternatives can do
+
+These subtotals answer the owner's follow-up about the last product list. They preserve the listing currencies, include the four starter tools and 10 m coax, and exclude unpriced items. They are not final delivered costs.
+
+| Alternative | Verified partial subtotal | Capability after assembly and completing the missing parts |
+| --- | --- | --- |
+| Receiver and VFO, starter tools and coax | EUR 84.08 plus USD 58.00 | Receive HF signals on the selected filter band with suitable PC audio and SDR software; no transmission |
+| QMX and dummy load, starter tools and coax | EUR 84.08 plus USD 110.97 | Receive and transmit on the selected QMX band set, including SSB voice at roughly 3 to 5 W |
+| QMX route with optional enclosure and candidate 12 V supply | EUR 98.58 plus USD 130.97 | Same radio capability with case and power supply priced; antenna completion and audio integration still missing |
+
+The QMX already includes a receiver. These alternatives must not be added together. If the four starter tools are already owned, subtract EUR 74.18 from the relevant EUR subtotal. QMX assembly is kit construction with some components already fitted, not a fully original circuit design.
+
+The receiver route still needs a suitable clean 5 V supply, stereo audio input, wiring and a complete antenna. The QMX route still needs the chosen antenna feed and mounting arrangement, appropriate microphone/PTT or computer audio setup, and commissioning. Wire length, delivery charges and import treatment have not been quoted. The 12 V supply listed above is not a direct substitute for the receiver/VFO 5 V supply.
+
+The wire forms the antenna elements. The coax carries the signal between radio and antenna. The VFO tunes the receiver. The dummy load absorbs transmitter output for bench checks; it provides no communication range. None of these parts alone is a complete station.
+
+Once assembled, appropriately authorized and connected to an effective antenna, the QMX can be used to attempt distant HF contacts, including intercontinental contacts in suitable conditions. This is a capability target, not a distance guarantee. The hardware does not provide every radio service, a local handheld repeater or the later solar emergency network. Those network stages remain in the roadmap.
+
 ## Component construction path still to quote
 
 The [BITX40 product page](https://www.hfsignals.com/index.php/bitx40/) says that product is no longer sold. Its historical USD 59 price is not a current offer. The [circuit description](https://www.hfsignals.com/index.php/bitx40-circuit-description/) remains useful, but its linked schematic ZIP returned 404 during this check. Before quoting a reproduction, select a retrievable circuit revision, PCB or construction method and a complete component list, then price actual order quantities. No full component build price is claimed verified by this page.
