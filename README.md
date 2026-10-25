@@ -10,6 +10,8 @@ Progress from the first locally received signal to documented amateur radio cont
 
 Success means a reproducible station configuration, documented original builds, useful measurements and logged two way contacts, including a distant HF contact when conditions allow. Range depends on the antenna, location, noise, propagation and the other station. No distance or worldwide coverage is guaranteed.
 
+Compare the [proposed objectives, from lunar and satellite experiments to practical local operation and first reception](docs/objectives.md) before selecting purchases. The recommended main target is an HF and VHF/UHF station with an intercontinental voice contact and validated original builds; the owner's final priorities are still open.
+
 ## Station concept
 
 ```mermaid

@@ -2,6 +2,8 @@
 
 All hardware milestones are pending. The order can adapt to the available antenna site and equipment, while retaining the final amateur radio objective.
 
+Use the [objective comparison](objectives.md) to decide the intended station capability before the parts list. The proposed stretch goals are optional branches, not additional mandatory stages.
+
 | Stage | Work | Completion evidence | Status |
 | --- | --- | --- | --- |
 | 0. Define the starting point | Inventory equipment and skills; set a first phase budget; assess antenna space; establish licensing status | Written constraints, first target band and a justified initial parts list | Pending owner inputs |

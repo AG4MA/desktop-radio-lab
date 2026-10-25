@@ -10,6 +10,14 @@
 
 **Next experiment:** select the first receive band and assemble a minimal receive chain after the starting point is recorded.
 
+## 2026-10-25: compare objectives before purchases
+
+**Completed:** documented proposed goals from lunar and satellite experiments to intercontinental HF voice, local VHF/UHF operation and first reception, with success criteria and implications for buying.
+
+**Recommendation:** build toward HF voice contacts in Europe and on another continent, retain useful VHF/UHF capability, and validate original antenna and accessory builds. Advanced branches remain optional and unselected.
+
+**Open:** owner priorities and the existing starting point inputs. No purchases, hardware builds or measurements were made.
+
 ## Entry template
 
 Copy this template for each experiment. Retain failed experiments when they explain the next decision.

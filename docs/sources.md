@@ -10,5 +10,9 @@ Reviewed on 2026-10-25. Recheck regulations and product compatibility before act
 | [ARRL: Single Band Dipoles](https://www.arrl.org/single-band-dipoles) | A candidate antenna construction project after selecting a band and checking space |
 | [ARRL: Limited Space and Indoor Antennas](https://www.arrl.org/limited-space-and-indoor-antennas) | Alternatives when a full sized antenna cannot be installed |
 | [RTL-SDR Blog V4 guide](https://www.rtl-sdr.com/v4/) | Example receive hardware and the need for compatible drivers |
+| [RSGB: HF DXing](https://rsgb.org/main/get-started-in-amateur-radio/operating-your-new-station/hf-dxing-how-to-do-it/) | Practical context for distant HF contacts |
+| [AMSAT: Linear Satellites](https://www.amsat.org/live-linear-satellites/) | Satellite capabilities and operating status to recheck before selecting a target |
+| [AMSAT-DL: QO-100 operating guidelines](https://amsat-dl.org/en/p4-a-nb-transponder-bandplan-and-operating-guidelines/) | Requirements and coverage context for a possible satellite branch |
+| [ARRL: National Parks Via the Moon](https://www.arrl.org/files/file/QST/This%20Month%20in%20QST/July2016/Schaefer.pdf) | A documented EME example; a stretch capability, not a proposed starter purchase |
 
 Technical references from amateur radio associations do not establish Italian transmission privileges. Exact hardware choices, antenna dimensions, prices and performance remain unverified for this station.
