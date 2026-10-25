@@ -1,24 +1,14 @@
-# Two distinct projects
+# One progressive project
 
-Updated on 2026-10-25 following the owner's clarification. Keep both projects active and track their designs, budgets and acceptance tests separately. They can share tools and lessons without assuming that the same radio serves both purposes.
+Updated on 2026-10-25 following the owner's latest clarification. Build the homemade station first, achieve intercontinental HF contacts, and then develop autonomous emergency stations. These are successive phases of one project. This page keeps its existing URL so earlier links remain usable.
 
-## 1. Autonomous emergency communication network
+## Phase 1: build and understand the HF station
 
-**Purpose:** let a group communicate locally during power or communication outages, using portable radios and a solar powered station left at a suitable site. City or flat countryside are provisional scenarios. Four portables are a costing assumption only.
+Start with the antenna and receive chain. Build the transmitter, filtering, controls, enclosure and power distribution in measured increments using documented circuits and appropriately selected components. Original hardware work is central. Purchased ICs, PCBs, modules and tools support construction; a kit is an option to assess, not a decision already made.
 
-**Engineering objective:** select a lawful voice network architecture, measure coverage at the intended locations, and size the power system from the actual waiting and transmitting load. An automatic relay remains part of the requested target; a solar charging point with direct radios is a simpler alternative, not the same capability.
+## Phase 2: achieve intercontinental HF operation
 
-**DIY opportunities:** enclosure, mounts, wiring and fused DC distribution, controller, telemetry, assembly of purchased photovoltaic and battery components, and suitable amateur radio subsystems when the operator and station requirements are met. Bought parts and recovered equipment should both be evaluated.
-
-**Costs that still matter:** battery energy, RF isolation between transmitter and receiver, suitable antennas, weather exposure, measurement and commissioning. Connecting two cheap radios does not by itself establish a dependable repeater. Building equipment does not remove the service and authorization constraints documented in the [budget study](budget.md).
-
-The earlier EUR 3,500 to 7,000 repeater estimate describes one complete commercial equipment route. It is not a proven minimum for a DIY network. A lower cost prototype budget must identify its actual components and distinguish bench operation from unattended service and measured autonomy. No replacement full network quote has been validated yet.
-
-## 2. Homemade HF station
-
-**Purpose:** build and understand the station, starting with a useful receive path and antenna and progressing to HF voice contacts, including an intercontinental contact when conditions permit. Original hardware work is central to this project.
-
-**Candidate path:** build an antenna, assemble a documented low power HF transceiver kit, verify it on a suitable load, then integrate the feed line, power and controls. Develop original circuits in increments and compare them with known working equipment. Buying complex ICs, PCBs or RF modules remains compatible with constructing the station at the bench.
+Integrate and commission the homemade station, obtain the required operating prerequisites and progress from initial contacts to an intercontinental voice contact. Keep the schematic, settings, antenna dimensions and contact evidence. This is the intermediate milestone leading to the autonomous station phase, not the end of the project.
 
 **Verified lower cost example:** the manufacturer lists the [QRP Labs QMX](https://www.qrp-labs.com/qmx) kit at USD 102.47. It supports SSB voice, CW and digital modes with 3 to 5 W output, depending on the configuration. The surface mount components are already fitted; assembly includes through hole work and winding magnetic components. The [shop](https://shop.qrp-labs.com/qmx) lists the options separately. This is a candidate, not a selected purchase or a claim that the kit is trivial for a beginner.
 
@@ -26,11 +16,21 @@ The earlier EUR 3,500 to 7,000 repeater estimate describes one complete commerci
 
 A low power kit is a different configuration from the previously costed 100 W commercial station. HF contacts over large distances are possible at low power, but voice operation becomes more demanding of antenna efficiency, noise conditions, propagation and operating practice. No intercontinental contact is guaranteed.
 
+## Phase 3: develop autonomous emergency stations
+
+Use the construction and operating experience to build reproducible stations for communication during power or communication outages. The target includes a solar powered station left at a suitable site and portable radios for other people. City or flat countryside are provisional scenarios. Four portables and a 72 hour test remain planning assumptions, not confirmed requirements.
+
+Select the appropriate service and topology, measure coverage, then size the solar system from actual loads and the site's conditions. An automatic relay remains part of the requested target; a charging point with direct radios provides a different capability. The same HF transceiver is not assumed to serve automatically as a local repeater.
+
+Construction can include mounts, enclosure, wiring, fused DC distribution, controller, telemetry and integration of purchased solar and battery components. Battery capacity, RF isolation, weather protection, measurement and commissioning remain real costs. Follow the operating constraints recorded in the [budget study](budget.md).
+
+The earlier EUR 3,500 to 7,000 repeater estimate describes one complete commercial equipment route. It is not a minimum DIY cost. A replacement estimate must identify the actual design and separate bench operation from validated unattended service. No final DIY network quote has been established.
+
 ## Priorities and exclusions
 
 The owner has little interest in lunar reflection. Park EME research and purchases unless explicitly requested again. Lunar operation investigates a different propagation path and demanding weak signal engineering; reaching another continent does not require it. Keep the previous EME cost estimate only as historical context.
 
-Satellites remain an optional unselected branch. HF is the practical long distance priority for the homemade station; useful local communication and energy autonomy are the priorities for the emergency network.
+Satellites remain unselected. Keep effort on the agreed sequence: homemade construction, intercontinental HF operation, then autonomous stations. All GitHub content is in English; conversation with the owner is in Italian.
 
 ## Correction to earlier estimates
 

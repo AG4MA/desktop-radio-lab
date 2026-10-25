@@ -30,6 +30,18 @@
 
 The next entries follow two separately tracked projects: the homemade HF station and the autonomous emergency network. The owner deprioritized lunar reflection and requested a stronger DIY emphasis. The commercial budget figures have been qualified and a documented low power HF kit candidate has been researched. No purchase or construction has occurred. See [workstreams](workstreams.md).
 
+**Superseded:** the owner subsequently clarified that these are consecutive phases of one project, as recorded below.
+
+## 2026-10-25: unify the project progression
+
+**Confirmed direction:** build the homemade station first, progress to intercontinental HF contacts, then develop autonomous emergency stations using that experience. The HF station is an intermediate milestone. Lunar reflection remains parked.
+
+**Language:** all GitHub content in English; conversation with the owner in Italian.
+
+**Documentation change:** unified the goals and roadmap, added the later solar and network validation stages, and replaced default commercial receiver and transmitter choices with construction from documented circuits and selected components. Kits remain candidates, not selected purchases.
+
+**Evidence limits:** no equipment bought, assembled or tested; no radio contacts or coverage claims. Four portable radios and a 72 hour test remain assumptions.
+
 ## Entry template
 
 Copy this template for each experiment. Retain failed experiments when they explain the next decision.

@@ -1,21 +1,21 @@
 # Build roadmap
 
-All hardware milestones are pending. The order can adapt to the available antenna site and equipment, while retaining the final amateur radio objective.
-
-Use the [objective comparison](objectives.md) to decide the intended station capability before the parts list. The proposed stretch goals are optional branches, not additional mandatory stages.
+All hardware milestones are pending. The owner selected one progression: homemade construction, intercontinental HF contacts, then autonomous emergency stations. The [project path](workstreams.md) explains the sequence and DIY priorities. Adapt implementation details to evidence while preserving this order.
 
 | Stage | Work | Completion evidence | Status |
 | --- | --- | --- | --- |
 | 0. Define the starting point | Inventory equipment and skills; set a first phase budget; assess antenna space; establish licensing status | Written constraints, first target band and a justified initial parts list | Pending owner inputs |
-| 1. First reception | Set up one SDR, compatible software and a basic antenna | Repeatable local reception, settings and a spectrum screenshot or permitted sample | Planned |
-| 2. First original antenna | Build and install a simple antenna suited to the chosen band | Drawing, dimensions, parts, photos and baseline comparison | Planned |
-| 3. Improve reception | Identify noise or overload; test antenna placement, feed line or one filter | Controlled comparison and measured benefit or documented lack of benefit | Planned |
-| 4. Build desk controls | Add an encoder, controls and firmware to operate the receiver | Schematic, firmware and a working demonstration | Planned |
-| 5. Prepare transmission | Complete the required authorization; select HF and VHF/UHF equipment in justified increments; prepare power, antenna matching and receiver protection | Verified operating prerequisites and documented bench setup | Planned |
-| 6. First contacts | Commission the transmit chain and complete initial amateur contacts on selected bands | Station configuration and contact log | Planned |
-| 7. Distant HF contact | Improve the HF antenna and operating practice using measured evidence | A documented distant contact and an explanation of propagation and station conditions | Planned |
+| 1. Antenna and first receiver | Build a feasible antenna and receive chain from a documented circuit or modules | Schematic, dimensions, assembly photos and repeatable reception | Planned |
+| 2. Characterize reception | Measure behavior; improve placement, feed line or filtering when evidence justifies it | Controlled comparison with settings and limitations recorded | Planned |
+| 3. Build the HF transmitter | Assemble and test the required signal generation, modulation, amplification and filtering stages; evaluate documented kits where appropriate | Circuit and bench checks into a suitable load, with output and unwanted emissions checked using appropriate equipment | Planned |
+| 4. Integrate the station | Add controls, enclosure, low voltage distribution, antenna matching and receiver protection | A reproducible working configuration and demonstrated controls | Planned |
+| 5. First HF contacts | Verify operating authorization and commission the station on the chosen bands | Initial contact log and station configuration | Planned |
+| 6. Intercontinental HF milestone | Improve antenna and operating practice using evidence | A documented intercontinental voice contact with the homemade station | Planned |
+| 7. Autonomous power prototype | Measure station consumption and build the solar and battery system for the intended later site | Logged energy use, charging behavior and a defined autonomy test | Planned after HF milestone |
+| 8. Reproducible network stations | Select the appropriate radio service and topology; build the fixed station and provision compatible user radios | Reproducible parts list, diagrams, verified operator and station prerequisites, and bench integration | Planned after HF milestone |
+| 9. Emergency network validation | Test communication at agreed locations and without external power; verify unattended behavior where applicable | Coverage records, endurance measurements and operating instructions | Planned after integration |
 
-VHF/UHF can provide an early operating milestone once authorized. HF is the planned primary route toward distant contacts. Adding a digital mode, satellite operation or another band is a later extension with its own requirements.
+Choose the later network's bands and equipment for its actual coverage needs. The first HF radio need not become the local repeater. Four user radios and 72 hours of autonomy are provisional costing and test assumptions. Lunar reflection is parked, and satellite work is not selected.
 
 ## Starting point worksheet
 

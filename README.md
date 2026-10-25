@@ -1,34 +1,33 @@
 # Desktop Radio Lab
 
-Build a desktop amateur radio station from zero, combining purchased equipment with antennas, electronics and software made at the workbench.
+Build a homemade amateur radio station from components and documented circuits, achieve intercontinental HF contacts, then develop autonomous stations for communication during emergencies.
 
 **Status:** project definition and build roadmap. No hardware has been purchased, assembled or tested as part of this project. Existing equipment and operator qualifications still need to be inventoried.
 
 ## Goal
 
-Two distinct projects are active: an autonomous local emergency voice network with solar power, and a homemade HF station for learning and distant contacts. See the [separate workstreams and revised DIY approach](docs/workstreams.md). Lunar reflection is parked at the owner's request.
+This is one progressive project: homemade construction, intercontinental HF operation, then autonomous emergency stations. The HF station is an intermediate milestone and the foundation for later work. See the [project path and DIY approach](docs/workstreams.md). Lunar reflection is parked at the owner's request.
 
-Progress from the first locally received signal to documented amateur radio contacts using a station assembled and understood by its owner. Develop HF capability for distant contacts and VHF/UHF capability for local and regional operation. Each addition should solve a measured problem or enable a specific new capability.
+Progress from the first locally received signal to documented amateur radio contacts using a station assembled and understood by its owner. Develop HF capability for distant contacts first. Then reuse the skills and suitable components to develop solar powered stations and a practical voice network. Add VHF/UHF or another appropriate service when the network design requires it.
 
-Success means a reproducible station configuration, documented original builds, useful measurements and logged two way contacts, including a distant HF contact when conditions allow. Range depends on the antenna, location, noise, propagation and the other station. No distance or worldwide coverage is guaranteed.
+The intermediate milestone is a documented intercontinental HF voice contact using the homemade station. The later milestone is an autonomous network tested for intelligible communication at defined locations and for an agreed period without external power. Schematics, assembly records and measurements must make the builds reproducible. Range depends on the installation and operating conditions; neither milestone has been achieved yet.
 
-The [objective comparison](docs/objectives.md) records the earlier range of possibilities. Current priorities are homemade HF operation and the separate solar communication network; lunar reflection is no longer an active objective.
+The [objectives](docs/objectives.md) and [roadmap](docs/roadmap.md) define this sequence. Future network stations may need different radios or antennas from the first HF station. Kits and purchased modules remain options to evaluate, not selected substitutes for the owner's construction objective.
 
-The [budget comparison](docs/budget.md) includes complete station estimates and a new solar communication network objective, comparing direct portable radios with a true unattended repeater.
+The [budget comparison](docs/budget.md) retains commercial reference configurations and preliminary DIY allowances. Later network options include direct radios and a true unattended repeater; they provide different capabilities and have different operating requirements.
 
 ## Station concept
 
 ```mermaid
 flowchart LR
-    A[Receive antenna] --> B[Optional filter or attenuator]
-    B --> C[SDR receiver]
-    C --> D[Computer: spectrum and audio]
-    E[DIY tuning controls] --> D
-    F[Future HF transceiver] <--> G[Suitable HF antenna]
-    H[Future VHF/UHF transceiver] <--> I[Suitable VHF/UHF antenna]
+    A[Build antenna and receiver] --> B[Build and validate HF transmitter]
+    B --> C[Integrate the homemade station]
+    C --> D[Document intercontinental HF contact]
+    D --> E[Develop solar power and station replication]
+    E --> F[Test autonomous emergency network]
 ```
 
-The receive and transmit paths are separate at first. An SDR receiver is not a transmitter. Frequency coverage does not imply simultaneous reception of every channel or support for every modulation. HF is the principal route toward distant contacts; VHF/UHF expands local and regional operation, including suitable amateur repeaters. See the [technical references](docs/sources.md).
+Build and validate the receive path before commissioning transmission. An optional purchased SDR can serve as a reference instrument. Frequency coverage does not imply simultaneous reception of every channel or support for every modulation. HF serves the distant contact milestone; select the later network's bands and topology for its actual coverage requirements. See the [technical references](docs/sources.md).
 
 Before adding a transmitter, design receiver protection and antenna switching. Never connect transmitter output directly to an SDR input. A shared antenna needs properly rated switching and isolation.
 
@@ -36,13 +35,13 @@ Before adding a transmitter, design receiver protection and antenna switching. N
 
 | Part | Starting approach | Evidence to keep |
 | --- | --- | --- |
-| Receiver | Buy one SDR compatible with the selected first band and computer | Model, software versions, settings and first reception |
+| Receiver | Build from a documented circuit or suitable modules; evaluate a reference SDR only when useful | Schematic, assembly, settings and first reception |
 | Antenna | Build a simple antenna appropriate to available space and the first band | Dimensions, diagram, construction photos and comparison |
 | Feed line and connectors | Buy suitable cable and connectors; assemble where practical | Cable type, length, continuity and losses when measured |
 | Filters and attenuators | Build only after identifying an interference or overload problem | Circuit, parts and measured frequency response |
 | Desk controls | Build a tuning knob and controls using a purchased microcontroller | Wiring, firmware and demonstrated integration |
-| Transmit station | Select a commercial unit or documented kit after defining bands and authorization | Configuration, bench checks and contacts |
-| Power and instruments | Buy suitable low voltage power equipment and obtain instruments as needed | Ratings, setup and measurement limitations |
+| Transmit station | Build the HF signal chain in verified stages using a documented design; evaluate a kit as one possible approach | Schematic, configuration, bench checks and contacts |
+| Power and instruments | Assemble suitable low voltage power distribution from rated parts; obtain instruments as needed, then develop solar power in the later phase | Ratings, setup, energy measurements and limitations |
 
 Specific products and costs remain open. This is an architecture, not an order list. Start with a single receive chain; expand it after the first evidence is collected.
 
@@ -60,7 +59,7 @@ Store schematics, firmware and measurements when they exist. Clearly label simul
 
 ## First practical step
 
-Record the initial budget, antenna space, equipment already available, soldering and electronics experience, and licensing status. Then select one band, one receiver and one feasible antenna. The first physical milestone is a repeatable reception through the station's own antenna.
+Record the initial budget, antenna space, equipment already available, soldering and electronics experience, and licensing status. Then select one band, one documented receiver design and one feasible antenna build. The first physical milestone is repeatable reception through the station's own antenna. Document each subsystem before adding the next.
 
 ## Operating context
 

@@ -1,8 +1,8 @@
 # Objectives before purchases
 
-**Latest direction:** maintain the [homemade HF station and autonomous emergency network as separate projects](workstreams.md). The owner has little interest in EME, so the lunar level below is retained only as historical comparison and receives no further research or purchasing work unless requested.
+**Current direction:** one project following the [homemade construction, intercontinental HF and autonomous station sequence](workstreams.md). Intercontinental HF is an intermediate milestone. The owner has little interest in EME; the lunar comparison below is historical and receives no further research or purchasing work unless requested.
 
-**Status:** proposed objectives for discussion, recorded on 2026-10-25. The owner requested a comparison from the most ambitious to the most standard and useful before selecting purchases. The primary target below is a recommendation, not a confirmed scope or spending commitment.
+**Status:** the owner confirmed the overall sequence on 2026-10-25. Exact hardware, budget, network size and autonomy remain open. The ambition comparison below records earlier exploration and does not override the current roadmap.
 
 ## From stretch goals to the practical starting point
 
@@ -20,26 +20,26 @@ The technical basis for these capabilities is covered by [ARRL's EME example](ht
 
 No fixed distance or reliable contact schedule is promised. A contact in a weak signal digital mode does not establish that voice operation will work over the same path. Internet linked contacts and remote web reception must be recorded separately from the local station's radio performance.
 
-## Recommended primary target
+## Intermediate target: homemade HF operation
 
-Build a usable HF and VHF/UHF desk station that supports local contacts and an intercontinental voice contact, with an original antenna and at least one additional original subsystem validated by measurement or functional checks.
+Build and understand the antenna, receive and transmit paths, filtering, controls and station integration, then achieve an intercontinental HF voice contact. Select documented circuits, components and any justified modules or kits as the work progresses. Add VHF/UHF when the later network design requires it.
 
 The desk holds the radio, controls and computer. Antenna placement and feed line routing are part of the station design; fitting everything inside a room is not assumed.
 
-Start with level 1, build toward levels 2 and 3, and keep levels 4 and 5 as optional branches. Satellite work may become an earlier alternative if the antenna site favors it. It is not necessary to buy equipment for every level.
+Follow the construction stages in the [roadmap](roadmap.md). Lunar work is parked and satellites remain unselected. Reaching the HF milestone leads into autonomous station development.
 
-## Additional objective: solar communication network
+## Later target: autonomous emergency stations
 
 The owner also requested a solar powered base left in place, with portable radios distributed to other people for communication during outages. Compare costs and the differences between direct PMR446, a staffed CB base and an unattended amateur repeater in the [budget study](budget.md). City or flat countryside are the provisional terrain scenarios. Four portables are an explicit costing assumption, not a confirmed group size.
 
-This is an additional practical objective alongside the original amateur radio station. The service, site, required range and autonomy are still to be selected. A possible acceptance test is intelligible communication at agreed locations and 72 hours of measured autonomy under a defined traffic pattern; neither has been demonstrated.
+This is the later phase of the same project. The service, site, required range and autonomy are still to be selected. A possible acceptance test is intelligible communication at agreed locations and 72 hours of measured autonomy under a defined traffic pattern; neither has been demonstrated and the duration is not yet a confirmed requirement.
 
 ## Construction objectives at every level
 
 1. Build and characterize an antenna appropriate to the chosen first band and available space.
 2. Identify one real reception problem and test a remedy, such as placement, feed line changes or a filter when justified.
 3. Build an original station accessory, such as tuning controls or a measured passive RF component, with its schematic and any firmware.
-4. Consider a documented receiver or transceiver kit when assembly skills and measurement tools support it. A purchased transceiver can remain the operating reference while the experimental radio is developed.
+4. Build the receiver and transmitter from documented designs in verifiable stages. Evaluate kits or purchased reference equipment when they support the learning and measurement goals; no full radio purchase is selected by default.
 5. Record actual costs, assembly photos, measurements, unsuccessful changes and the next decision in the build log.
 
 ## What this means for buying
