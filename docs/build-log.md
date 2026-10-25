@@ -18,6 +18,14 @@
 
 **Open:** owner priorities and the existing starting point inputs. No purchases, hardware builds or measurements were made.
 
+## 2026-10-25: budgets and autonomous communication
+
+**Completed:** added estimated total costs for each radio objective and three solar powered network options, with dated component price anchors, exclusions and an illustrative energy calculation.
+
+**New requirement:** a base left in place on solar power and portable radios distributed to other people. The owner suggested city or flat countryside for estimation. Four portables are assumed for cost comparison only.
+
+**Evidence limits:** no purchase, compatible cart, site survey, coverage test, energy measurement or radio authorization verification. The repeaters and direct radio kits are distinct architectures. Required distance and group size remain open; the owner asked for cost understanding before further specification.
+
 ## Entry template
 
 Copy this template for each experiment. Retain failed experiments when they explain the next decision.

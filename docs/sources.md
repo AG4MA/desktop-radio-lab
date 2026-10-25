@@ -16,3 +16,5 @@ Reviewed on 2026-10-25. Recheck regulations and product compatibility before act
 | [ARRL: National Parks Via the Moon](https://www.arrl.org/files/file/QST/This%20Month%20in%20QST/July2016/Schaefer.pdf) | A documented EME example; a stretch capability, not a proposed starter purchase |
 
 Technical references from amateur radio associations do not establish Italian transmission privileges. Exact hardware choices, antenna dimensions, prices and performance remain unverified for this station.
+
+Dated component prices and further Italian regulatory sources for the solar network are recorded alongside their assumptions in the [budget study](budget.md). These estimates do not establish a compatible final parts list or verified availability at checkout.

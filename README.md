@@ -12,6 +12,8 @@ Success means a reproducible station configuration, documented original builds, 
 
 Compare the [proposed objectives, from lunar and satellite experiments to practical local operation and first reception](docs/objectives.md) before selecting purchases. The recommended main target is an HF and VHF/UHF station with an intercontinental voice contact and validated original builds; the owner's final priorities are still open.
 
+The [budget comparison](docs/budget.md) includes complete station estimates and a new solar communication network objective, comparing direct portable radios with a true unattended repeater.
+
 ## Station concept
 
 ```mermaid

@@ -26,6 +26,12 @@ The desk holds the radio, controls and computer. Antenna placement and feed line
 
 Start with level 1, build toward levels 2 and 3, and keep levels 4 and 5 as optional branches. Satellite work may become an earlier alternative if the antenna site favors it. It is not necessary to buy equipment for every level.
 
+## Additional objective: solar communication network
+
+The owner also requested a solar powered base left in place, with portable radios distributed to other people for communication during outages. Compare costs and the differences between direct PMR446, a staffed CB base and an unattended amateur repeater in the [budget study](budget.md). City or flat countryside are the provisional terrain scenarios. Four portables are an explicit costing assumption, not a confirmed group size.
+
+This is an additional practical objective alongside the original amateur radio station. The service, site, required range and autonomy are still to be selected. A possible acceptance test is intelligible communication at agreed locations and 72 hours of measured autonomy under a defined traffic pattern; neither has been demonstrated.
+
 ## Construction objectives at every level
 
 1. Build and characterize an antenna appropriate to the chosen first band and available space.
