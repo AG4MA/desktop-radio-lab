@@ -1,5 +1,7 @@
 # Planning costs
 
+**Latest initial build estimate:** see [step 1 costs and feasibility](step-1-feasibility.md). The component construction allowance is EUR 300 to 550 for the first HF station, plus EUR 150 to 350 for basic tools if needed. A smaller antenna and receiver milestone targets EUR 120 to 200 in parts. These allowances assume borrowed RF measurement equipment and are not checkout quotations.
+
 **Current scope:** one progressive DIY project, from homemade HF construction through intercontinental contacts to autonomous emergency stations. The figures below mainly describe complete new commercial equipment configurations, not minimum entry costs. See the [project path](workstreams.md), including a provisional EUR 300 to 500 starting allowance for a low power kit based HF station if that option is selected. The commercial network budget is not a validated DIY minimum. EME is parked. Cost the next construction milestone before selecting purchases for later phases.
 
 Checked on 2026-10-25. These are estimated whole system budgets derived from current component listings, not configured quotations or purchases. Assume new equipment and an existing computer. Allow for Italian checkout VAT adjustments and shipping before ordering; promotional prices and stock can change.
@@ -80,7 +82,7 @@ Amateur operation requires the relevant operator credentials, callsign and gener
 
 A professional private radio network on assigned frequencies is a separate route requiring an eligible applicant, a technical design and an individual quotation. Eligibility for this proposed family or friends group has not been established. See [MIMIT private radio networks](https://www.mimit.gov.it/index.php/it/comunicazioni/radio/autorizzazioni-e-licenze/radio-ad-uso-impresa).
 
-## Proposed first test
+## Later network test, after the HF milestone
 
 Use two appropriate portable radios at the intended locations before buying a full group kit. An example pair of G9 Pro radios at the manufacturer's listed price costs EUR 218 and can remain in a larger direct PMR446 kit. Select the permitted service before ordering. A PMR446 coverage test is not a validation of a future amateur repeater installation.
 

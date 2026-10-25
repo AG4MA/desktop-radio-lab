@@ -18,3 +18,5 @@ Reviewed on 2026-10-25. Recheck regulations and product compatibility before act
 Technical references from amateur radio associations do not establish Italian transmission privileges. Exact hardware choices, antenna dimensions, prices and performance remain unverified for this station.
 
 Dated component prices and further Italian regulatory sources for the solar network are recorded alongside their assumptions in the [budget study](budget.md). These estimates do not establish a compatible final parts list or verified availability at checkout.
+
+The [step 1 feasibility study](step-1-feasibility.md) records the BITX circuit reference, QRP Labs receiver dependencies and kit comparison, and basic tool price anchors checked on 2026-10-25. Its component construction allowances are estimates, not a sourced and selected bill of materials.

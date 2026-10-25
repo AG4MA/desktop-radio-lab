@@ -38,7 +38,7 @@ Before adding a transmitter, design receiver protection and antenna switching. N
 | Receiver | Build from a documented circuit or suitable modules; evaluate a reference SDR only when useful | Schematic, assembly, settings and first reception |
 | Antenna | Build a simple antenna appropriate to available space and the first band | Dimensions, diagram, construction photos and comparison |
 | Feed line and connectors | Buy suitable cable and connectors; assemble where practical | Cable type, length, continuity and losses when measured |
-| Filters and attenuators | Build only after identifying an interference or overload problem | Circuit, parts and measured frequency response |
+| Filters and attenuators | Build the band and output filters required by the selected circuit; add extra filters or attenuators only after measuring a specific need | Circuit, parts and measured frequency response |
 | Desk controls | Build a tuning knob and controls using a purchased microcontroller | Wiring, firmware and demonstrated integration |
 | Transmit station | Build the HF signal chain in verified stages using a documented design; evaluate a kit as one possible approach | Schematic, configuration, bench checks and contacts |
 | Power and instruments | Assemble suitable low voltage power distribution from rated parts; obtain instruments as needed, then develop solar power in the later phase | Ratings, setup, energy measurements and limitations |
@@ -58,6 +58,8 @@ Follow the [roadmap](docs/roadmap.md) and record each experiment in the [build l
 Store schematics, firmware and measurements when they exist. Clearly label simulation, remote reception, local reception and measured hardware results. Remote web receivers can support learning but do not validate this station's antenna.
 
 ## First practical step
+
+See the [step 1 cost and feasibility study](docs/step-1-feasibility.md): a provisional EUR 300 to 550 for the component built HF station, plus EUR 150 to 350 for basic tools if needed. The smaller antenna and receiver milestone targets EUR 120 to 200 in parts. RF measurement equipment is assumed borrowed; access is not yet confirmed.
 
 Record the initial budget, antenna space, equipment already available, soldering and electronics experience, and licensing status. Then select one band, one documented receiver design and one feasible antenna build. The first physical milestone is repeatable reception through the station's own antenna. Document each subsystem before adding the next.
 

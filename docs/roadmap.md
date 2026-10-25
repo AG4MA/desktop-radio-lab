@@ -2,6 +2,8 @@
 
 All hardware milestones are pending. The owner selected one progression: homemade construction, intercontinental HF contacts, then autonomous emergency stations. The [project path](workstreams.md) explains the sequence and DIY priorities. Adapt implementation details to evidence while preserving this order.
 
+The [step 1 feasibility study](step-1-feasibility.md) costs the whole initial station phase and its smaller first antenna and receiver build separately. Its allowances do not represent a selected parts list or completed hardware.
+
 | Stage | Work | Completion evidence | Status |
 | --- | --- | --- | --- |
 | 0. Define the starting point | Inventory equipment and skills; set a first phase budget; assess antenna space; establish licensing status | Written constraints, first target band and a justified initial parts list | Pending owner inputs |

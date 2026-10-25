@@ -6,6 +6,8 @@ Updated on 2026-10-25 following the owner's latest clarification. Build the home
 
 Start with the antenna and receive chain. Build the transmitter, filtering, controls, enclosure and power distribution in measured increments using documented circuits and appropriately selected components. Original hardware work is central. Purchased ICs, PCBs, modules and tools support construction; a kit is an option to assess, not a decision already made.
 
+The [step 1 feasibility study](step-1-feasibility.md) proposes a documented single band circuit and a EUR 300 to 550 station allowance, plus basic tools if needed. It separates this component construction path from the optional kit comparison below and identifies the smaller first receive milestone.
+
 ## Phase 2: achieve intercontinental HF operation
 
 Integrate and commission the homemade station, obtain the required operating prerequisites and progress from initial contacts to an intercontinental voice contact. Keep the schematic, settings, antenna dimensions and contact evidence. This is the intermediate milestone leading to the autonomous station phase, not the end of the project.

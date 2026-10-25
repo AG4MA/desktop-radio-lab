@@ -42,6 +42,14 @@ The next entries follow two separately tracked projects: the homemade HF station
 
 **Evidence limits:** no equipment bought, assembled or tested; no radio contacts or coverage claims. Four portable radios and a 72 hour test remain assumptions.
 
+## 2026-10-25: assess step 1 costs and feasibility
+
+**Completed:** assessed the initial homemade HF station phase and its smaller antenna and receiver milestone separately. Recommended constructing a documented single band circuit in measured increments. Added an explicit parts, iteration and basic tool allowance, and verified optional kit and tool price anchors.
+
+**Planning figures:** EUR 300 to 550 for the station and EUR 150 to 350 for basic tools if needed. The smaller first receiver and antenna milestone targets EUR 120 to 200 in parts. Suitable RF measurement equipment is assumed borrowed; access is not confirmed. These are estimates, not a selected bill of materials or a spending commitment.
+
+**Evidence limits:** no circuit or band selected, no purchases, no assembly or measurements. Antenna space, existing equipment and experience remain unknown. The later intercontinental and autonomous station milestones are unchanged. See [step 1 feasibility](step-1-feasibility.md).
+
 ## Entry template
 
 Copy this template for each experiment. Retain failed experiments when they explain the next decision.
