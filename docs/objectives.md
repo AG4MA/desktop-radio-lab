@@ -1,5 +1,7 @@
 # Objectives before purchases
 
+**Latest direction:** maintain the [homemade HF station and autonomous emergency network as separate projects](workstreams.md). The owner has little interest in EME, so the lunar level below is retained only as historical comparison and receives no further research or purchasing work unless requested.
+
 **Status:** proposed objectives for discussion, recorded on 2026-10-25. The owner requested a comparison from the most ambitious to the most standard and useful before selecting purchases. The primary target below is a recommendation, not a confirmed scope or spending commitment.
 
 ## From stretch goals to the practical starting point

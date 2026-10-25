@@ -6,11 +6,13 @@ Build a desktop amateur radio station from zero, combining purchased equipment w
 
 ## Goal
 
+Two distinct projects are active: an autonomous local emergency voice network with solar power, and a homemade HF station for learning and distant contacts. See the [separate workstreams and revised DIY approach](docs/workstreams.md). Lunar reflection is parked at the owner's request.
+
 Progress from the first locally received signal to documented amateur radio contacts using a station assembled and understood by its owner. Develop HF capability for distant contacts and VHF/UHF capability for local and regional operation. Each addition should solve a measured problem or enable a specific new capability.
 
 Success means a reproducible station configuration, documented original builds, useful measurements and logged two way contacts, including a distant HF contact when conditions allow. Range depends on the antenna, location, noise, propagation and the other station. No distance or worldwide coverage is guaranteed.
 
-Compare the [proposed objectives, from lunar and satellite experiments to practical local operation and first reception](docs/objectives.md) before selecting purchases. The recommended main target is an HF and VHF/UHF station with an intercontinental voice contact and validated original builds; the owner's final priorities are still open.
+The [objective comparison](docs/objectives.md) records the earlier range of possibilities. Current priorities are homemade HF operation and the separate solar communication network; lunar reflection is no longer an active objective.
 
 The [budget comparison](docs/budget.md) includes complete station estimates and a new solar communication network objective, comparing direct portable radios with a true unattended repeater.
 

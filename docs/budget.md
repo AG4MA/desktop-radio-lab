@@ -1,5 +1,7 @@
 # Planning costs
 
+**Scope correction:** the owner prioritizes DIY construction and clarified two distinct projects: the homemade HF station and the autonomous emergency network. The figures below mainly describe complete new commercial equipment configurations, not minimum entry costs. See the [revised DIY path](workstreams.md), including a provisional EUR 300 to 500 starting budget for a low power kit based HF station. The commercial network budget is not a validated DIY minimum. EME is parked.
+
 Checked on 2026-10-25. These are estimated whole system budgets derived from current component listings, not configured quotations or purchases. Assume new equipment and an existing computer. Allow for Italian checkout VAT adjustments and shipping before ordering; promotional prices and stock can change.
 
 The station budgets include ordinary power, an appropriate basic antenna, cable and simple mounting. They exclude professional roof work, towers, site rent, administrative fees and the common workbench. Different goals reuse some equipment, so these totals should not be added together.

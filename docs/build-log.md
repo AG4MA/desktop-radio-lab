@@ -26,6 +26,10 @@
 
 **Evidence limits:** no purchase, compatible cart, site survey, coverage test, energy measurement or radio authorization verification. The repeaters and direct radio kits are distinct architectures. Required distance and group size remain open; the owner asked for cost understanding before further specification.
 
+## 2026-10-25: separate projects and correct the DIY cost framing
+
+The next entries follow two separately tracked projects: the homemade HF station and the autonomous emergency network. The owner deprioritized lunar reflection and requested a stronger DIY emphasis. The commercial budget figures have been qualified and a documented low power HF kit candidate has been researched. No purchase or construction has occurred. See [workstreams](workstreams.md).
+
 ## Entry template
 
 Copy this template for each experiment. Retain failed experiments when they explain the next decision.
