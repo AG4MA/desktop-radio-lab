@@ -68,6 +68,14 @@ The next entries follow two separately tracked projects: the homemade HF station
 
 **Next physical inputs:** roof dimensions and cable route, existing tool inventory and commissioning access. Complete the installation plan and delivered quote before site-dependent purchasing.
 
+## 2026-10-26: add the scientific RF geolocation objective
+
+**Owner request:** include the ability to locate other transmitting stations using radio waves for scientific experiments.
+
+**Completed:** added an [experiment plan](rf-geolocation.md) and linked it to the objectives and roadmap. The plan separates RF measurements from validation coordinates, starts with controlled direction finding, and requires position errors, uncertainty and unsuccessful results to be reported. TDOA and HF skywave localization are later investigations.
+
+**Evidence limits:** documentation only. No geolocation receiver, antenna array, synchronization system or processing platform has been selected, purchased or tested. No accuracy or additional cost is claimed. The standalone HF proposal and main project progression remain in place.
+
 ## Entry template
 
 Copy this template for each experiment. Retain failed experiments when they explain the next decision.

@@ -14,6 +14,8 @@ The intermediate milestone is a documented intercontinental HF voice contact usi
 
 The [objectives](docs/objectives.md) and [roadmap](docs/roadmap.md) define this sequence. Future network stations may need different radios or antennas from the first HF station. Kits and purchased modules remain options to evaluate, not selected substitutes for the owner's construction objective.
 
+An additional [RF geolocation experiment](docs/rf-geolocation.md) will investigate estimating a transmitting station's position from received radio waves. Start with reference transmitters and compare estimates with independently recorded locations. This scientific objective can progress alongside the station build; it is not a prerequisite for HF contacts or the emergency network.
+
 The [budget comparison](docs/budget.md) retains commercial reference configurations and preliminary DIY allowances. Later network options include direct radios and a true unattended repeater; they provide different capabilities and have different operating requirements.
 
 ## Station concept

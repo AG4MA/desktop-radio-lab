@@ -22,3 +22,13 @@ Dated component prices and further Italian regulatory sources for the solar netw
 The [step 1 feasibility study](step-1-feasibility.md) records the BITX circuit reference, QRP Labs receiver dependencies and kit comparison, and basic tool price anchors checked on 2026-10-25. Its component construction allowances are estimates, not a sourced and selected bill of materials.
 
 The [standalone HF bill of materials](standalone-hf-bom.md), checked on 2026-10-26, is the current kit assembly proposal. It links each priced product, the QMX assembly/transformer/operating manuals, microphone maker documentation, antenna construction instructions and retailer shipping policies. It distinguishes documented compatibility from physical testing and identifies the outstanding roof installation and delivered-cost inputs.
+
+## RF geolocation references
+
+Reviewed on 2026-10-26 for the [scientific experiment](rf-geolocation.md). These establish methods and limitations, not this project's performance.
+
+| Source | Use in this project |
+| --- | --- |
+| [Rohde & Schwarz: Radio direction finding techniques](https://www.rohde-schwarz.com/uk/knowledge-center/technology-fundamentals/radio-direction-finding-techniques/radio-direction-finding-techniques_255557.html) | Direction finding and the distinction between measuring a bearing and estimating a location |
+| [ITU-R SM.2356-2: Procedures for planning and optimization of spectrum-monitoring networks in the VHF/UHF frequency range](https://www.itu.int/hub/publication/r-rep-sm-2356-2-2018/) | AOA, TDOA and receiver network geometry; its VHF/UHF context does not establish HF skywave accuracy |
+| [An Improved TDOA Method for Land-Based Long-Range HF Skywave Source Geolocation and Experimental Results](https://pmc.ncbi.nlm.nih.gov/articles/PMC9823903/) | Research on HF skywave localization and propagation modelling; published results are not performance claims for this build |

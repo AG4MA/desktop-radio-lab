@@ -28,6 +28,10 @@ Construction can include mounts, enclosure, wiring, fused DC distribution, contr
 
 The earlier EUR 3,500 to 7,000 repeater estimate describes one complete commercial equipment route. It is not a minimum DIY cost. A replacement estimate must identify the actual design and separate bench operation from validated unattended service. No final DIY network quote has been established.
 
+## Additional experiment: locate a transmitter from radio measurements
+
+On 2026-10-26 the owner added a scientific [RF geolocation objective](rf-geolocation.md). Build and characterize a measurement setup, estimate reference transmitter positions from radio observations, and evaluate the estimates against separate ground truth. Direction finding is the proposed starting method; synchronized TDOA and HF skywave localization require further investigation. This work can accompany the main phases and does not replace their progression. No geolocation hardware, budget or accuracy has been validated.
+
 ## Priorities and exclusions
 
 The owner has little interest in lunar reflection. Park EME research and purchases unless explicitly requested again. Lunar operation investigates a different propagation path and demanding weak signal engineering; reaching another continent does not require it. Keep the previous EME cost estimate only as historical context.

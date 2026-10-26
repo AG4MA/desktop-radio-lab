@@ -34,6 +34,14 @@ The owner also requested a solar powered base left in place, with portable radio
 
 This is the later phase of the same project. The service, site, required range and autonomy are still to be selected. A possible acceptance test is intelligible communication at agreed locations and 72 hours of measured autonomy under a defined traffic pattern; neither has been demonstrated and the duration is not yet a confirmed requirement.
 
+## Additional scientific objective: RF geolocation
+
+Requested on 2026-10-26: learn to estimate the location of a transmitting antenna using radio measurements, without relying on its transmitted coordinates, IP address or callsign lookup. Known receiver positions, calibration and timing references remain valid inputs. Ground truth is kept separate for evaluating error.
+
+Begin with a controlled local experiment using reference transmitters or participating stations. Investigate direction finding first, then assess measurements from multiple sites and time difference of arrival as later options. Report repeated estimates, position errors, uncertainty and failed or ambiguous results. Hardware, bands and achievable accuracy remain unverified; the proposed HF kit alone is not an established geolocation system.
+
+This is an additional experiment within the same project. The [experiment plan](rf-geolocation.md) defines its scope and evidence; it does not change the main construction, intercontinental HF and autonomous station sequence.
+
 ## Construction objectives at every level
 
 1. Build and characterize an antenna appropriate to the chosen first band and available space.

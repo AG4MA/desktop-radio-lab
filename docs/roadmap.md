@@ -19,6 +19,19 @@ The [step 1 feasibility study](step-1-feasibility.md) costs the whole initial st
 
 Choose the later network's bands and equipment for its actual coverage needs. The first HF radio need not become the local repeater. Four user radios and 72 hours of autonomy are provisional costing and test assumptions. Lunar reflection is parked, and satellite work is not selected.
 
+## Parallel scientific experiment: RF geolocation
+
+The owner requested [RF geolocation](rf-geolocation.md) on 2026-10-26. It can begin after repeatable reception and a suitable measurement setup are available. It is an additional experiment, not a prerequisite for the numbered stages above.
+
+| Experiment step | Completion evidence | Status |
+| --- | --- | --- |
+| Define and build the measurement setup | Selected reference signal, band, receiver geometry, antenna design and calibration procedure, with a verified parts list | Planned; hardware and costs open |
+| Demonstrate direction finding | Repeatable bearing observations of a known reference transmitter, with errors and ambiguities recorded | Not started |
+| Estimate position from multiple observations | Reproducible position estimates compared against separately held ground truth; uncertainty and failed estimates included | Not started |
+| Assess advanced methods | A feasibility report for synchronized TDOA and, separately, HF skywave propagation; implementation only after the required equipment and model are established | Future investigation |
+
+The current standalone HF bill of materials does not include a validated geolocation setup. Normal HF voice operation remains independent of a PC; computation for this experiment still needs its own design decision.
+
 ## Starting point worksheet
 
 | Input | Current value |
