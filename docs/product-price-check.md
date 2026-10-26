@@ -2,6 +2,8 @@
 
 Checked on 2026-10-25 after the owner requested product evidence rather than broad estimates. No order was placed. Prices below are displayed listing prices, not a delivered quotation. Availability is a snapshot and Italian destination tax or shipping may change checkout totals.
 
+**Current proposal:** the owner subsequently requested a radio to assemble for standalone HF voice. Use the [2026-10-26 standalone bill of materials](standalone-hf-bom.md). It verifies the microphone, 9 V build, headphone interface, antenna and tool requirements. This page retains earlier comparisons; its partial totals are not the current shopping list.
+
 ## Correction to the earlier budget
 
 The EUR 300 to 550 component built station figure remains an unverified planning allowance: this project has not selected and priced its full circuit bill of materials. The EUR 150 to 350 workbench allowance is not a verified minimum. The four starter tools below have a much lower demonstrated subtotal, but do not constitute a complete RF laboratory.

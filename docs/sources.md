@@ -20,3 +20,5 @@ Technical references from amateur radio associations do not establish Italian tr
 Dated component prices and further Italian regulatory sources for the solar network are recorded alongside their assumptions in the [budget study](budget.md). These estimates do not establish a compatible final parts list or verified availability at checkout.
 
 The [step 1 feasibility study](step-1-feasibility.md) records the BITX circuit reference, QRP Labs receiver dependencies and kit comparison, and basic tool price anchors checked on 2026-10-25. Its component construction allowances are estimates, not a sourced and selected bill of materials.
+
+The [standalone HF bill of materials](standalone-hf-bom.md), checked on 2026-10-26, is the current kit assembly proposal. It links each priced product, the QMX assembly/transformer/operating manuals, microphone maker documentation, antenna construction instructions and retailer shipping policies. It distinguishes documented compatibility from physical testing and identifies the outstanding roof installation and delivered-cost inputs.

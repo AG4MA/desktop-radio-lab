@@ -58,6 +58,16 @@ The next entries follow two separately tracked projects: the homemade HF station
 
 **Evidence limits:** the full component built radio still has no selected and priced bill of materials. The original whole station and first receiver allowances are unverified estimates. No order, assembly or hardware test was made. See [direct product evidence](product-price-check.md).
 
+## 2026-10-26: quote the standalone HF voice build
+
+**Owner requirement:** assemble a radio for receiving and transmitting voice at long distance without a PC during normal use. The owner tentatively proposed the roof for the antenna. Its usable span, attachments and feed-line route remain unknown.
+
+**Completed:** prepared a [current proposed bill of materials](standalone-hf-bom.md) using the QMX kit built for 9 V, a compatible microphone kit, headphones, operating supply, dummy load, antenna/choke kits and bench equipment. Verified electrical interfaces against manufacturer manuals, corrected the previous soldering tool choice, and identified initial firmware installation as a one-time computer dependency. Prices retain their actual currencies and tax qualifications.
+
+**Evidence limits:** this is kit assembly with factory-fitted SMD parts, not a fully original component design. No products were ordered or tested. Shipping, import treatment, roof installation, tool access and independent RF measurements are not fully costed. Published part subtotals are not a delivered station total. Intercontinental HF and autonomous emergency communication remain future milestones.
+
+**Next physical inputs:** roof dimensions and cable route, existing tool inventory and commissioning access. Complete the installation plan and delivered quote before site-dependent purchasing.
+
 ## Entry template
 
 Copy this template for each experiment. Retain failed experiments when they explain the next decision.

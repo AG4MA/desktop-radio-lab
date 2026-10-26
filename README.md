@@ -2,7 +2,7 @@
 
 Build a homemade amateur radio station from components and documented circuits, achieve intercontinental HF contacts, then develop autonomous stations for communication during emergencies.
 
-**Status:** project definition and build roadmap. No hardware has been purchased, assembled or tested as part of this project. Existing equipment and operator qualifications still need to be inventoried.
+**Status:** project roadmap and a [priced proposal for a standalone HF voice build](docs/standalone-hf-bom.md). No hardware has been purchased, assembled or tested as part of this project. Existing equipment and operator qualifications still need to be inventoried.
 
 ## Goal
 
@@ -43,7 +43,7 @@ Before adding a transmitter, design receiver protection and antenna switching. N
 | Transmit station | Build the HF signal chain in verified stages using a documented design; evaluate a kit as one possible approach | Schematic, configuration, bench checks and contacts |
 | Power and instruments | Assemble suitable low voltage power distribution from rated parts; obtain instruments as needed, then develop solar power in the later phase | Ratings, setup, energy measurements and limitations |
 
-Specific products and costs remain open. This is an architecture, not an order list. Start with a single receive chain; expand it after the first evidence is collected.
+The [standalone HF bill of materials](docs/standalone-hf-bom.md) proposes a QMX kit, microphone and antenna assembly route, with verified product prices and explicit installation gaps. It does not authorize purchases or claim a fully original circuit design. Start physical validation with reception; commission the transmitter after the assembly checks.
 
 ## Build process
 
@@ -59,11 +59,11 @@ Store schematics, firmware and measurements when they exist. Clearly label simul
 
 ## First practical step
 
-The [direct product links and price check](docs/product-price-check.md) provide verifiable listings. Four starter bench items total EUR 74.18 before shipping. A complete component built radio bill of materials is still unselected and unquoted; the following figures are planning allowances, not verified shopping totals.
+Use the [standalone HF bill of materials](docs/standalone-hf-bom.md), checked on 2026-10-26, for the current purchase proposal. It covers voice operation without a PC, kit contents, external accessories, the antenna candidate, tools and commissioning dependencies. Initial firmware installation still needs a computer. The antenna site is tentatively a roof; span, cable routing and mounting remain unverified, so no final delivered total is claimed.
 
-The [step 1 cost and feasibility study](docs/step-1-feasibility.md) retains the initial planning allowances with their qualifications. RF measurement equipment is assumed borrowed; access is not yet confirmed.
+The [earlier product comparison](docs/product-price-check.md) and [step 1 feasibility study](docs/step-1-feasibility.md) remain historical context. Their receiver alternatives, supplies and tool baskets must not be added to the current proposal. Suitable RF measurement access remains unconfirmed rather than assumed free.
 
-Record the initial budget, antenna space, equipment already available, soldering and electronics experience, and licensing status. Then select one band, one documented receiver design and one feasible antenna build. The first physical milestone is repeatable reception through the station's own antenna. Document each subsystem before adding the next.
+Record roof dimensions, available tools, electronics experience and licensing status. Confirm the antenna installation before ordering site-dependent items. The first physical milestone is repeatable reception through the station's own antenna; subsequent bench tests and authorized contacts establish transmitter performance.
 
 ## Operating context
 
